@@ -1,5 +1,5 @@
 <?php 
 	/*Update credentials*/
-	define('EMAIL', 'blogwebsite8@gmail.com');
-	define('PASS', 'tcfyxxywfffubegv');
+	define('EMAIL', 'youremailaddress');
+	define('PASS', 'password');
  ?>
